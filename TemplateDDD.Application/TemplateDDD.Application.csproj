@@ -9,15 +9,4 @@
     <ProjectReference Include="..\TemplateDDD.Domain\TemplateDDD.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Mappings\" />
-    <Folder Include="CQRS\Commands\" />
-    <Folder Include="CQRS\Handlers\" />
-    <Folder Include="CQRS\" />
-    <Folder Include="Services\" />
-    <Folder Include="CQRS\Queries\" />
-  </ItemGroup>
-
 </Project>

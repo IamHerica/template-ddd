@@ -9,12 +9,4 @@
     <ProjectReference Include="..\TemplateDDD.Domain\TemplateDDD.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Context\" />
-    <Folder Include="Migrations\" />
-    <Folder Include="EntitiesConfiguration\" />
-    <Folder Include="Identity\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>
