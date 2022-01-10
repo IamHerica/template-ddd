@@ -1,0 +1,26 @@
+{
+  "author": "IamHerica",
+  "classifications": [ "Console" ], 
+  "name": "DDD Template",
+  "identity": "DDD.Template",         
+  "groupIdentity":"DDD.TemplateGitHub",
+  "shortName": "dddtemplate",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
+  "sourceName": "DDD-Template",
+  "preferNameDirectory": true,
+  "symbols": {
+    "copyrightName": {
+      "type": "parameter",
+      "defaultValue": "Herica Cadoni",
+      "replaces":"Your name here"
+    },
+    "title": {
+      "type": "parameter",
+      "defaultValue": "Hello World from dotnet new dddtemplate",
+      "replaces":"Hello World from Herica!"
+    }
+  }
+}

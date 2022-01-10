@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TemplateDDD.Application\TemplateDDD.Application.csproj" />
+    <ProjectReference Include="..\TemplateDDD.Domain\TemplateDDD.Domain.csproj" />
+    <ProjectReference Include="..\TemplateDDD.Infrastructure\TemplateDDD.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
