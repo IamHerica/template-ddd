@@ -35,3 +35,5 @@ O modelo "DDD Template" foi criado com êxito.
 *** 
 # Observações:
 Dentro de cada pasta possui um .gitignore, que foi colocado apenas com a intenção de subir as pastas no GitHub, já que sem algum arquivo dentro não seria possível.
+
+Curso que aprendi DDD e muito mais: https://www.udemy.com/course/clean-architecture-essencial-asp-net-core-com-c/
